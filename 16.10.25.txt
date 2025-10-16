@@ -1,0 +1,4 @@
+Õppisin selle kahe päevaga väga palju.
+ Sain kirjutada esimest korda koodi.
+ Loogika avaldisi ja erinevaid pythoni lühendeid ning kuidas seda terminalis jällegi avada mida oled just koodina kirjutanud.
+ Väga meeldis.
